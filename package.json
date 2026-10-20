@@ -1,0 +1,23 @@
+{
+  "name": "dsi",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MiniEves/dsi#readme",
+  "bugs": {
+    "url": "https://github.com/MiniEves/dsi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiniEves/dsi.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron"
+  },
+  "dependencies": {
+    "electron": "^44.9.1"
+  }
+}
